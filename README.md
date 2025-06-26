@@ -1,2 +1,2 @@
-# prime-q
- PRISM-Q: Patient Real-world Internet Search Medical Questions and internet based patient medical question dataset
+# PRISM-Q
+ PRISM-Q: Patient Real-world Internet Search Medical Questions, an internet search based patient medical question dataset

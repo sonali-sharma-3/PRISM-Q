@@ -2,7 +2,7 @@
 
 
 
-**PRISM-Q** is a curated dataset of 500 patient-phrased medical questions sourced from real-world internet searches. It is designed to support research in natural language processing (NLP), clinical reasoning, and patient-centered AI by capturing the authentic language and concerns of patients seeking medical information online.
+**PRISM-Q** is a curated dataset of 500 patient-phrased medical questions sourced from real-world internet searches. It is designed to support research in Large Language Models and clinical reasoning by capturing the authentic language and concerns of patients seeking medical information online.
 
 ## Dataset Overview
 

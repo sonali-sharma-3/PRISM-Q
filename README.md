@@ -29,21 +29,21 @@ Indicates the clinical theme or context of the question:
 - Mental Health & Psychiatric Conditions
 - Diagnostic Test & Laboratory Result Interpretation
 
+### Clinical Area/Diagnosis
+Represents the relevant clinical area or diagnosis:
+- Includes both general conditions (e.g., “Abdominal Pain”, “ADHD”, “Borderline Personality Disorder”) and medical speciality
+  
 ### Intent Category
 Defines the underlying purpose of the question:
 - **Symptom Interpretation** – e.g., _“Why do my fingers feel stiff?”_  
 - **Diagnosis Interpretation** – e.g., _“My doctor says I have ADHD, what does that mean?”_  
 - **Treatment** – e.g., _“How do I treat my spring allergies?”_  
-- **Emergency Interpretation** – (event vs. symptom-specific)  
-- **Drug Interaction**
+- **Emergency Interpretation** – (event vs. symptom-specific)
 
-### Clinical Concept
-Represents the relevant clinical area or diagnosis:
-- Includes both general conditions (e.g., “Abdominal Pain”, “ADHD”, “Borderline Personality Disorder”)  
+
+## Test Results (Diagnosis & Lab/Imaging Test Result Only)
 - Diagnostic interpretation entries are labeled with explicit **test result status**:  
   - `Positive`, `Negative`, `Inconclusive`, `Normal`, `Abnormal`
-
----
 
 ## Triage Level (Emergency Scenarios Only)
 
@@ -66,8 +66,6 @@ For medication safety questions, the following additional metadata is included:
   
 - **Pharmacological Classes**
   - Each agent is mapped to its drug class (e.g., `ACE inhibitor`, `SSRI`, `Beta-blocker`, `NSAID`, `Herbal supplement`)
-
----
 
 ## File Contents
 

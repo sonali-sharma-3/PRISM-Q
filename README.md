@@ -62,7 +62,7 @@ Acute emergency questions are labeled using a five-point triage scale, adapted f
 For medication safety questions, the following additional metadata is included:
 
 - **Interaction Severity**
-  - `None`, `Minor`, `Moderate`, `Severe`
+  - `No Interaction`, `Minor`, `Moderate`, `Severe`
   
 - **Pharmacological Classes**
   - Each agent is mapped to its drug class (e.g., `ACE inhibitor`, `SSRI`, `Beta-blocker`, `NSAID`, `Herbal supplement`)
